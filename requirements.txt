@@ -1,6 +1,11 @@
-numpy
 pandas
+numpy
 matplotlib
-scipy
 scikit-learn
+scipy
 lightgbm
+optuna
+shap
+joblib
+requests
+shapely>=2.0
